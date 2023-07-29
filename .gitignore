@@ -74,4 +74,4 @@ crashlytics-build.properties
 # Custom additions
 /connectwebgl.zip
 /WebGL Builds/
-/webgl_sharing/
+/webgl_sharing
